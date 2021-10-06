@@ -1,5 +1,6 @@
 html, body {
     height: 100%;
+    background: gray;
   }
   
   * {
@@ -42,4 +43,5 @@ html, body {
     margin: 20px 0;
     border: 1px solid #ddd;
     padding: 20px;
+    background: white;
   }
